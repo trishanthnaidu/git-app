@@ -4,7 +4,7 @@ function App() {
     return (
         <>
             <div>Hello Sir.</div>
-            <div>Sir Me Priyal, Me Pushed The Code.</div>
+            <div>This changes has been done by Priyal.</div>
         </>);
 }
 
